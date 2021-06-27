@@ -43,4 +43,8 @@ O krummholz (sete) se mostra o antagônico da espécie quatro, ocupando o limite
 
 ### Relevo
 
-Algumas informações concernentes ao relevo já podem ser extraídas desse gráfico.
+Algumas informações concernentes ao relevo já podem ser extraídas desse gráfico. Tendo em vista que quão maior o número do tipo de solo, mais pedregoso e rochoso é, infere-se que a quarta região deva ser a mais baixa e, por conseguinte, com maior acúmulo de águas; que a terceira, pela sua variedade, deva ser a de maior amplitude; que a segunda, a mais alta e árida; e que a primeira, intermediária entre as duas últimas.
+
+A quantidade de solo (idêntica à quantidade de amostras da **Tabela 1**, pois cada entrada possui um único solo) pode ser interpretada como um parâmetro que reflete a extensão de cada região, mas isso pode ser ilusório. A região **Neota** (segunda) corresponde a 03,30% da vegetação da Floresta, sendo a mais inóspita pela altitude e pelo solo rochoso. Isso não quer dizer que corresponde a 03,30% de todo o espaço ocupado pela floresta, uma vez que, naturalmente, em regiões de maior altitude e de solos menos férteis, menos árvores crescem.
+
+## Elevação
